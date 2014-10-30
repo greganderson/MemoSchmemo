@@ -1,0 +1,29 @@
+Basics of committing:
+	- git add <FILENAME>	# Yes, you have to add every file that has a change.  You can use wildcards, like 'git add *.py' and such.
+	- git commit -m "<COMMIT_MESSAGE>"
+	- git push origin <BRANCH_NAME>
+
+
+Creating your very own personal branch:
+	- git checkout -b <BRANCH_NAME>
+	- git checkout -b <BRANCH_NAME>			# Creates the new branch and switches to it
+	- git push origin <BRANCH_NAME>			# Pushes the new branch to the server
+	- We'll chat some more when it comes time for any of us to merge back into the master branch
+	
+
+Other:
+	- Use 'git checkout <branch_name>' to switch to whatever branch you want
+	- Use 'git branch' to see what branch you are currently working on
+	- 'git status' is a really useful command to see what files have changed and need to be added
+	for committing
+
+
+To get the most up to date code:
+	- git pull origin <BRANCH_NAME>
+
+
+If you run 'git pull' and get a merge conflict, panic!  But then calm down and we'll go over merging.
+Merge conflicts suck, at least I think they do, but they can be overcome.
+
+
+If you run into anything else, either google it or let me know and we can add it to this file.
