@@ -32,3 +32,5 @@ If you run into anything else, either google it or let me know and we can add it
 Hey guys, Jackson here. Thanks to Greg for the awesome git manual! Meher, if you're looking to build
 on the commands Greg provided, you might consider checking out Codeschool.com's free TryGit tutorial.
 It's pretty cool and it's short. :)  
+
+Awesome thanks Jackson! I'll check it out. 
