@@ -1,0 +1,23 @@
+I think our goal for each section is to make the case for why we should care about CS's impact on language/linguistics
+
+	Back when Computer Science was just starting, computer memory was limited, and language needs were small.  Combined, most programs did not support multiple languages.  If your company became global, however, you needed to handle some of these challenges.  Support for characters from different languages had to be developed.  Now, even if you are a small company, you may have to support multiple languages and different types of characters.  Our communities have evolved to have people from all over the world from every type of culture and language.  Support for these people is a must.
+
+
+Give some examples of how the intersection of CS + language/linguistics is impacting our society (touching, involving, and improving the community)
+
+	Some examples of how Computer Science has impacted language in our community are how our community has become diverse, and we need to be able to communicate with each other.  Computer Science has brought about translation programs that help with the language barrier.  Another example is how when a company needs to add support for a new language in their program, they need somebody who can translate the current text into the new language.  The person who translates does not need to be a programmer in order to accomplish this.  People who are bilingual have been able to contribute in these ways.
+
+	- Translation programs and how they are helping others communicate
+	- How are non-Computer Science people helping this process of supporting multiple languages.
+
+
+Talk about what kinds of articles we would want people to write
+
+	An example of an article that could be written for our journal would be a Study of how different companies have integrated support for other languages.  How much more successful are those companies compared to others who do not have that support.
+
+	- Studies of how different companies have integrated support for other languages.  How much more successful
+	are those companies compared to others who don't have that support.
+
+
+
+Improve Utah communities through active engagement in the humanities.
